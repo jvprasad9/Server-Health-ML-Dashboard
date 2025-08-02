@@ -15,3 +15,4 @@ It is based on daily `.csv` data collected from custom Bash health scripts on Li
 
 ```bash
 pip install pandas matplotlib
+[🛠 How I Automated Server Health Checks Using Bash](./blog.md)
